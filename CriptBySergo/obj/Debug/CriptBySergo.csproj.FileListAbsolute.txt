@@ -1,0 +1,9 @@
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\obj\Debug\CriptBySergo.csprojAssemblyReference.cache
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\obj\Debug\EncryptString.Form1.resources
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\obj\Debug\CriptBySergo.Properties.Resources.resources
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\obj\Debug\CriptBySergo.csproj.GenerateResource.cache
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\bin\Debug\CriptBySergo.exe.config
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\bin\Debug\CriptBySergo.exe
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\bin\Debug\CriptBySergo.pdb
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\obj\Debug\CriptBySergo.exe
+C:\Users\xabar\Desktop\!RemoveMe\CriptBySergo\CriptBySergo\obj\Debug\CriptBySergo.pdb
